@@ -1,4 +1,5 @@
-![Alt text](/img.jpg)
+![](/IMG_20200816_190939.jpg)
+![](/Screenshot_20200826-021903_Instagram.jpg)
 
 ### Hi there 👋 - Welcome to my Profile
 This is where you you will find my secret sauce (I had too) for a lot of the different projects I have worked on
