@@ -1,5 +1,5 @@
-![](/IMG_20200816_190939.jpg)
-![](/Screenshot_20200826-021903_Instagram.jpg)
+![Alt](/IMG_20200816_190939.jpg)
+![Alt](/Screenshot_20200826-021903_Instagram.jpg)
 
 ### Hi there 👋 - Welcome to my Profile
 This is where you you will find my secret sauce (I had too) for a lot of the different projects I have worked on
@@ -14,8 +14,11 @@ This is where you you will find my secret sauce (I had too) for a lot of the dif
 See it as you have made it this far and hopefully clicked on the previous links, you might as well contact me
 
 The best place to reach me is my email: mailto:sam.sausville@outlook.com
+
 You can also connect with me on Linkedin: https://www.linkedin.com/in/sam-sausville/
+
 Or follow my (eventual) blog on my personal website (whenever I get around to creating that): www.samsausville.com
+
 
 Here is a few questions to help
 
