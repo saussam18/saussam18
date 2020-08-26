@@ -1,5 +1,4 @@
-![Alt](/IMG_20200816_190939.jpg)
-![Alt](/Screenshot_20200826-021903_Instagram.jpg)
+!(header_github.png)
 
 ### Hi there 👋 - Welcome to my Profile
 This is where you you will find my secret sauce (I had too) for a lot of the different projects I have worked on
