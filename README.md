@@ -12,7 +12,7 @@ This is where you you will find my secret sauce (I had too) for a lot of the dif
 
 See it as you have made it this far and hopefully clicked on the previous links, you might as well contact me
 
-The best place to reach me is my email: mailto:sam.sausville@outlook.com
+The best place to reach me is my email: sam.sausville@outlook.com
 
 You can also connect with me on Linkedin: https://www.linkedin.com/in/sam-sausville/
 
@@ -34,6 +34,8 @@ Few things about me for the curious folks
 - I have seen over 100+ bands live, and only want to see a ton more
 - I am an avid Seahawks fan, GO HAWKS!
 - I try to be an early adopter of products, so if you have a cool product send it my way!
+- My favorite food is Beef Tacos
+- I have been in a Long Distance Relationship for over 2 years (Sorry ladies, taken)
 
 <!--
 **saussam18/saussam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
