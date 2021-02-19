@@ -34,8 +34,8 @@ Few things about me for the curious folks
 - I have seen over 100+ bands live, and only want to see a ton more
 - I am an avid Seahawks fan, GO HAWKS!
 - I try to be an early adopter of products, so if you have a cool product send it my way!
-- My favorite food is Beef Tacos
-- I have been in a Long Distance Relationship for over 2 years (Sorry ladies, taken)
+- My favorite food is beef tacos
+- I have been in a Long Distance Relationship for over 3 years (Sorry ladies, taken)
 
 <!--
 **saussam18/saussam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
