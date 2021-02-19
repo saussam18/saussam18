@@ -5,7 +5,7 @@ This is where you you will find my secret sauce (I had too) for a lot of the dif
 
 * I design and implement database systems --> https://github.com/saussam18/Nickel-Bank-Management-System
 * I won a FinTech Hackathon prototyping a Flutter App --> https://github.com/saussam18/LFG-Hacks
-* I perform product management/design for an aspiring tech startup --> Download our app at https://www.preff.menu/
+* I used to work for an aspiring tech startup --> Download our app at https://www.preff.menu/
 * I make Web Applications --> https://github.com/saussam18/Pathfinding-Maze-Visualizer
 * I make Android Apps --> https://github.com/saussam18/MTGDraftHelper
 * I interned at T-Mobile last year aiding in Customer Experience and Product Design in the Product and Technology Division --> https://www.linkedin.com/pulse/t-mobile-combines-product-technology-delivery-customer-cody-sanford/
