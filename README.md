@@ -12,11 +12,11 @@ This is where you you will find my secret sauce (I had too) for a lot of the dif
 
 See it as you have made it this far and hopefully clicked on the previous links, you might as well contact me
 
-The best place to reach me is my email: sam.sausville@outlook.com
+The best place to reach me is my email sam.sausville@outlook.com
 
-You can also connect with me on Linkedin: https://www.linkedin.com/in/sam-sausville/
+You can also connect with me on Linkedin https://www.linkedin.com/in/sam-sausville/
 
-Or follow my (eventual) blog on my personal website (whenever I get around to creating that): www.samsausville.com
+Or follow my Twitter to get an inside scoop of all my thoughts. It basically behaves as my mini-blog of my mind twitter.com/sausyville
 
 
 Here is a few questions to help
@@ -34,7 +34,7 @@ Few things about me for the curious folks
 - I have seen over 100+ bands live, and only want to see a ton more
 - I am an avid Seahawks fan, GO HAWKS!
 - I try to be an early adopter of products, so if you have a cool product send it my way!
-- My favorite food is beef tacos
+- If you are looking to get to know me, take me to a Mexican Restaruant or Taco Bell and I am all yours!
 - I have been in a Long Distance Relationship for over 3 years (Sorry ladies, taken)
 
 <!--
