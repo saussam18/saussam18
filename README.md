@@ -16,7 +16,7 @@ The best place to reach me is my email sam.sausville@outlook.com
 
 You can also connect with me on Linkedin https://www.linkedin.com/in/sam-sausville/
 
-Or follow my Twitter to get an inside scoop of all my thoughts. It basically behaves as my mini-blog of my mind twitter.com/sausyville
+Or follow my Twitter to get an inside scoop of all my thoughts. It basically behaves as my mini-blog of my mind https://www.twitter.com/sausyville
 
 
 Here is a few questions to help
