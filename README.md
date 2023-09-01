@@ -29,13 +29,13 @@ Here is a few questions to help
 
 Few things about me for the curious folks
 
-- Going to Lehigh Universtiy studying Computer Science and Business
+- Current SWE @ MSFT
 - Favorite book this year is Thinking in Bets by Annie Duke (Thanks Jack Cunningham for the suggestion)
 - I have seen over 100+ bands live, and only want to see a ton more
 - I am an avid Seahawks fan, GO HAWKS!
 - I try to be an early adopter of products, so if you have a cool product send it my way!
 - If you are looking to get to know me, take me to a Mexican Restaruant or Taco Bell and I am all yours!
-- I have been in a Long Distance Relationship for over 3 years (Sorry ladies, taken)
+- I have been in a Long Distance Relationship for over 5 years (Sorry ladies, taken)
 
 <!--
 **saussam18/saussam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
