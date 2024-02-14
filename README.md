@@ -1,14 +1,14 @@
-![Header Image](https://raw.githubusercontent.com/saussam18/saussam18/master/header_github.png)
-
 ### Hi there 👋 - Welcome to my Profile
-This is where you you will find my secret sauce (I had too) for a lot of the different projects I have worked on
+Currently I work at Microsoft as a Software Engineer, working on Power Apps.
+
+Outside of my job, this is where you you will find my secret sauce (I had too) for a lot of the different projects I have worked on.
 
 * I design and implement database systems --> https://github.com/saussam18/Nickel-Bank-Management-System
 * I won a FinTech Hackathon prototyping a Flutter App --> https://github.com/saussam18/LFG-Hacks
 * I used to work for an aspiring tech startup --> Download our app at https://www.preff.menu/
-* I make Web Applications --> https://github.com/saussam18/Pathfinding-Maze-Visualizer
-* I make Android Apps --> https://github.com/saussam18/MTGDraftHelper
-* I interned at T-Mobile last year aiding in Customer Experience and Product Design in the Product and Technology Division --> https://www.linkedin.com/pulse/t-mobile-combines-product-technology-delivery-customer-cody-sanford/
+* I make web applications --> https://github.com/saussam18/Pathfinding-Maze-Visualizer
+* I make android apps --> https://github.com/saussam18/MTGDraftHelper
+* I interned at T-Mobile in 2020 aiding in Customer Experience and Product Design in the Product and Technology Division --> https://www.linkedin.com/pulse/t-mobile-combines-product-technology-delivery-customer-cody-sanford/
 
 See it as you have made it this far and hopefully clicked on the previous links, you might as well contact me
 
@@ -29,13 +29,12 @@ Here is a few questions to help
 
 Few things about me for the curious folks
 
-- Current SWE @ MSFT
-- Favorite book this year is Thinking in Bets by Annie Duke (Thanks Jack Cunningham for the suggestion)
-- I have seen over 100+ bands live, and only want to see a ton more
-- I am an avid Seahawks fan, GO HAWKS!
+- I play hockey once or twice a week as my main hobby and sport, all year round. 
+- My favorite book is Thinking in Bets by Annie Duke (Thanks Jack Cunningham for the suggestion).
+- I have seen over 100+ bands live, and only want to see a ton more.
+- I am an avid Seahawks and Mariners fan. GO HAWKS! #SEAUSRISE.
 - I try to be an early adopter of products, so if you have a cool product send it my way!
 - If you are looking to get to know me, take me to a Mexican Restaruant or Taco Bell and I am all yours!
-- I have been in a Long Distance Relationship for over 5 years (Sorry ladies, taken)
 
 <!--
 **saussam18/saussam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
