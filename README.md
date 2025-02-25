@@ -16,25 +16,7 @@ The best place to reach me is my email sam.sausville@outlook.com
 
 You can also connect with me on Linkedin https://www.linkedin.com/in/sam-sausville/
 
-Or follow my Twitter to get an inside scoop of all my thoughts. It basically behaves as my mini-blog of my mind https://www.twitter.com/sausyville
-
-
-Here is a few questions to help
-
-- What are you currently working on?
-- What are your thoughts on product X?
-- Why did you choose to do Y?
-- Would you be interested in working on Z?
-- Would you be interested in XYZ opprotunity?
-
-Few things about me for the curious folks
-
-- I play hockey once or twice a week as my main hobby and sport, all year round. 
-- My favorite book is Thinking in Bets by Annie Duke (Thanks Jack Cunningham for the suggestion).
-- I have seen over 100+ bands live, and only want to see a ton more.
-- I am an avid Seahawks and Mariners fan. GO HAWKS! #SEAUSRISE.
-- I try to be an early adopter of products, so if you have a cool product send it my way!
-- If you are looking to get to know me, take me to a Mexican Restaruant or Taco Bell and I am all yours!
+Or follow my Twitter, maybe one day I will post consistently haha. 
 
 <!--
 **saussam18/saussam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
