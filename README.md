@@ -10,7 +10,7 @@ I was the founding engineer of **Code Apps**, which became generally available i
 
 📝 [Blog Post](https://www.microsoft.com/en-us/power-platform/blog/power-apps/generally-available-host-and-run-code-apps-in-power-apps/) · 📖 [Docs](https://learn.microsoft.com/en-us/power-apps/developer/code-apps/overview)
 
-Our team shipped a ton of great stuff, but the ones I'm most proud of are two public npm packages:
+Our team shipped a ton of great stuff, such as the infrastructure to power vibe.powerapps and M365 App Builder, but the ones I'm most proud of are two public npm packages:
 
 - [`@microsoft/power-apps`](https://www.npmjs.com/package/@microsoft/power-apps) — Power Apps SDK
 - [`@microsoft/power-apps-cli`](https://www.npmjs.com/package/@microsoft/power-apps-cli) — Power Apps CLI
