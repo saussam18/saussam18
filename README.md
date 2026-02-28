@@ -1,34 +1,38 @@
-### Hi there 👋 - Welcome to my Profile
-Currently I work at Microsoft as a Software Engineer, working on Power Apps.
+# Hey, I'm Sam Sausville 👋
 
-Outside of my job, this is where you you will find my secret sauce (I had too) for a lot of the different projects I have worked on.
+**Senior Software Engineer @ Microsoft** — working on Power Apps.
 
-* I design and implement database systems --> https://github.com/saussam18/Nickel-Bank-Management-System
-* I won a FinTech Hackathon prototyping a Flutter App --> https://github.com/saussam18/LFG-Hacks
-* I used to work for an aspiring tech startup --> Download our app at https://www.preff.menu/
-* I make web applications --> https://github.com/saussam18/Pathfinding-Maze-Visualizer
-* I make android apps --> https://github.com/saussam18/MTGDraftHelper
-* I interned at T-Mobile in 2020 aiding in Customer Experience and Product Design in the Product and Technology Division --> https://www.linkedin.com/pulse/t-mobile-combines-product-technology-delivery-customer-cody-sanford/
+---
 
-See it as you have made it this far and hopefully clicked on the previous links, you might as well contact me
+## What I Do at Microsoft
 
-The best place to reach me is my email sam.sausville@outlook.com
+I was the founding engineer of **Code Apps**, which became generally available in February 2026.
 
-You can also connect with me on Linkedin https://www.linkedin.com/in/sam-sausville/
+📝 [Blog Post](https://www.microsoft.com/en-us/power-platform/blog/power-apps/generally-available-host-and-run-code-apps-in-power-apps/) · 📖 [Docs](https://learn.microsoft.com/en-us/power-apps/developer/code-apps/overview)
 
-Or follow my Twitter, maybe one day I will post consistently haha. 
+Our team shipped a ton of great stuff, but the ones I'm most proud of are two public npm packages:
 
-<!--
-**saussam18/saussam18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [`@microsoft/power-apps`](https://www.npmjs.com/package/@microsoft/power-apps) — Power Apps SDK
+- [`@microsoft/power-apps-cli`](https://www.npmjs.com/package/@microsoft/power-apps-cli) — Power Apps CLI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Outside of Work
+
+This is where you'll find my secret sauce (I had to) — a mix of the different projects I've been working on:
+
+🟢 **[Greenlite Code](https://github.com/saussam18/greenlite-code)** — An AI-first desktop text editor where you build using AI CLIs, then review the output in a text editor. Currently building this one out.
+
+🏈 **[CatchThat.io](https://catchthat.io)** — Every once in a while I build little sports games and tools here.
+
+🔍 **[iDalla Software](https://idallasoftware.com)** — Working on a company that does technical inspections of software business transactions. Check us out!
+
+---
+
+## Let's Connect
+
+📧 [sam.sausville@outlook.com](mailto:sam.sausville@outlook.com) — best way to reach me
+
+💼 [LinkedIn](https://www.linkedin.com/in/sam-sausville/)
+
+🐦 [@sausyville](https://twitter.com/sausyville) — maybe one day I'll post consistently haha
