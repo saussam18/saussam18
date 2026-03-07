@@ -21,8 +21,6 @@ Our team shipped a ton of great stuff, such as the infrastructure to power vibe.
 
 This is where you'll find my secret sauce (I had to) — a mix of the different projects I've been working on:
 
-🟢 **[Greenlite Code](https://github.com/saussam18/greenlite-code)** — An AI-first desktop text editor where you build using AI CLIs, then review the output in a text editor. Currently building this one out.
-
 🏈 **[CatchThat.io](https://catchthat.io)** — Every once in a while I build little sports games and tools here.
 
 🔍 **[iDalla Software](https://idallasoftware.com)** — Working on a company that does technical inspections of software business transactions. Check us out!
