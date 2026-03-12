@@ -21,7 +21,7 @@ Our team shipped a ton of great stuff, such as the infrastructure to power vibe.
 
 This is where you'll find my secret sauce (I had to) — a mix of the different projects I've been working on:
 
-🏈 **[CatchThat.io](https://catchthat.io)** — Every once in a while I build little sports games and tools here.
+🏈 **[CatchThat.io](https://catchthat.io)** — Software for the front office. CatchThat builds focused products across work and sports, one tool at a time.
 
 🔍 **[iDalla Software](https://idallasoftware.com)** — Working on a company that does technical inspections of software business transactions. Check us out!
 
